@@ -2,7 +2,7 @@
 --
 -- Host: localhost    Database: retrostepdb
 -- ------------------------------------------------------
--- Server version	10.4.28-MariaDB
+-- Server version	10.4.28-MariaDB f
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
